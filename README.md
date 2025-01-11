@@ -181,9 +181,6 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ---
 
 Thank you for your interest in the Diabetes Health Prediction and Analysis project! Your feedback and suggestions are invaluable in making this project better and more useful for everyone. 🌟
-
-![Contact Us](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgcxnmPWgrukdZFkZONlQ4vUIKWJakRLZqvQUfzkDUbS2nAbQyIxR23-OwOis99pE6UQSxXmxwwuugHQWmwRFfZdw4QKGnk9S_n4yFrfPFTSbKIL6sKUKTwFUyG-8no5Y_9dCLI0LUJIo/s1600/welovehearingfromu.png!)
-
 ---
 
 
